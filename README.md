@@ -14,7 +14,7 @@
 🎮  I started to learning it for my desire of to know how the games that I used to play worked<br/>
 🧡  since then creating applications has become my passion<br/>
 💼  Today, I have 3+ years of professional experience (and a little more working on personal projects)<br/>
-🎯  My current goal is to live new experiences, meeting new people and cultures around the world
+🎯  My current goal is to live new experiences, meeting new people and cultures around the world<br/>
 😔  I haven't been showing up here on GitHub much lately because my current company uses GitLab.
 
 ###
