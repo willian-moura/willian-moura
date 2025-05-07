@@ -1,21 +1,21 @@
-# Hello people, Willian here 👋 
+# Olá, pessoal, Willian aqui 👋 
 
 ###
 
-<p>My name is Willian Moura and I'm a brazilian developer</p>
+<p>Meu nome é Willian Moura e sou um desenvolvedor brasileiro</p>
 
 ###
 
-## My history
+## Minha história
 
 ###
 
-✨  I study about programming since my high school<br/>
-🎮  I started to learning it for my desire of to know how the games that I used to play worked<br/>
-🧡  since then creating applications has become my passion<br/>
-💼  Today, I have 3+ years of professional experience (and a little more working on personal projects)<br/>
-🎯  My current goal is to live new experiences, meeting new people and cultures around the world<br/>
-😔  I haven't been showing up here on GitHub much lately because my current company uses GitLab.
+✨  Estudo programação desde o ensino médio<br/>
+🎮  Meu interesse surgiu por causa da minha curiosidade em saber como eram criados os jogos que eu costumava jogar<br/>
+🧡  Desde então, criar aplicações se tornou minha paixão<br/>
+💼  Hoje, tenho mais de 5 anos de experiência profissional (e um pouco mais trabalhando em projetos pessoais)<br/>
+🎯  Meu objetivo atual é buscar novos desafios, crescimento técnico e aplicar minha experiência e conhecimento nos projetos em que trabalho
+😔  Não tenho aparecido muito por aqui no GitHub ultimamente pois a empresa onde trabalho atualmente usa o GitLab.
 
 ###
 
